@@ -1,0 +1,5 @@
+config V3D2
+	tristate "V3D drivers"
+	default N
+	---help---
+	kernel side port of https://github.com/phire/hackdriver
